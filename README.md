@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=bugggggggg&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=bugggggggg.readme)
+
 <!--
 **bugggggggg/bugggggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
